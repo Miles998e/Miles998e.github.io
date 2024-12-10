@@ -15,7 +15,8 @@ My GitHub page is http://github.com/Miles998e.
  This was tricky at first, but now it seems quite easy. We then output the 
  results to the user. In the second part of the lab, we used if and else 
  statements to create a guessing game. This helped me learn how to put if 
- statements inside of if statements. 
+ statements inside of if statements. I liked the functions parameters in the lab
+ the most. 
 
 * Lab 8
 
@@ -23,7 +24,7 @@ My GitHub page is http://github.com/Miles998e.
  made a vector of scores for our competition. The second part, which I enjoyed 
  more, used loops to create an interesting image of repeating symbols. I 
  learned a lot about loops and how they work with vectors in this lab, which is 
- why this lab is my favorite. 
+ why this lab is my favorite. I liked making interesting images with symbols.
 
 * Lab 11
 
@@ -32,4 +33,4 @@ My GitHub page is http://github.com/Miles998e.
  advanced guessing game for the second part of the lab. This made this lab my 
  favorite because it built upon our previous project. This time, we used classes 
  to determine the state of our game. We also used random number generators to 
- create a secret number.
+ create a secret number. I liked making classes for the first time. 
